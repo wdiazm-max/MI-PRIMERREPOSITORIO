@@ -1,0 +1,6 @@
+ClienteID,Nombre,Apellido,Email,Telefono,Ciudad,Estado
+1,Ana,Pérez,ana.perez@email.com,5551234567,Madrid,Madrid
+2,Carlos,Gómez,carlos.gomez@email.com,5559876543,Barcelona,Cataluña
+3,Lucía,Rodríguez,lucia.rodriguez@email.com,5554567890,Valencia,Valencia
+4,Juan,López,juan.lopez@email.com,5556789012,Sevilla,Andalucía
+5,María,Hernández,maria.hernandez@email.com,5553456789,Zaragoza,Aragón
